@@ -1,5 +1,5 @@
-import React from "react";
-class Shape extends React.Component {
+//import React from "react";
+class Shape {
   constructor(props) {
     super(props);
     this.color = "blue";
