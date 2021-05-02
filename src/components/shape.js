@@ -1,7 +1,5 @@
-import React from "react";
-class Shape extends React.Component {
-  constructor(props) {
-    super(props);
+class Shape {
+  constructor(color = "green") {
     this.color = "blue";
   }
   drawShape() {
