@@ -1,5 +1,5 @@
 // import using require
- import { Shape } from ''./Shape
+import { Shape } from "./shape";
 
 // declare class
 class Circle extends Shape {
